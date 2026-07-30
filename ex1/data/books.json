@@ -1,0 +1,9 @@
+[
+  {
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "price": 300,
+    "available": true,
+    "id": 2
+  }
+]
